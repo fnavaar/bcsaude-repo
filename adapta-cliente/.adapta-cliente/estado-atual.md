@@ -3,11 +3,11 @@
 - task_id: 11851c12-3446-4360-b207-4aa1d997dc1b
 - champion: Raquel
 - spec: adapta-cliente/04_fase-atual/specs/spec-1-001-entrada-oportunidade.md (adaptada para PocketBase)
-- etapa: aguardando_teste_humano
+- etapa: concluida
 - autorizacao_implementacao: confirmada em 2026-08-19T14:54:00-03:00, trecho: "pode implementar"
-- teste_humano: pendente
-- verificacao_automatica: pendente (build passou v0.0.251, mig 0054 aplicada)
+- teste_humano: aprovado em 2026-08-20T17:20:00-03:00, trecho: "APROVADO" + testes T1-T4 passaram
+- verificacao_automatica: passou (v0.0.254, QA completo)
 - aprendizado: pendente
-- ultima_acao: Deploy no Skip project (id 50190) — v0.0.251, QA completo. Mig 0054 aplicada, hooks leads_manual_create, backfill_canal e import atualizados.
-- proxima_acao: Raquel executar backfill (POST /backend/v1/leads/backfill-canal) e testar T1–T4
-- atualizado_em: 2026-08-20T17:15:00-03:00
+- ultima_acao: Task 11851c12 concluida — mig 0054-0056 + hooks + backfill implementados e testados
+- proxima_acao: Selecionar proxima task (684d6c59 — Configurar entradas Form e WhatsApp)
+- atualizado_em: 2026-08-20T17:25:00-03:00
