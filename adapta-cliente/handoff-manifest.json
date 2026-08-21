@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "adapta-cliente-handoff/v1",
+  "phase": 1,
+  "versions": {
+    "package": "0.9.5",
+    "adapta": "0.9.5",
+    "adaptaCliente": "0.9.5"
+  },
+  "generatedAt": "2026-08-17T19:36:45.544Z",
+  "files": [
+    {
+      "path": "04_fase-atual/.gitkeep",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/fase.md",
+      "sha256": "0af1abbf2f34ca72e29f5ebd37b594b879859693641fce4d8633fa20cd51c797",
+      "classification": "fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-001-entrada-oportunidade.md",
+      "sha256": "0a818b87117bc8837324ddcf83b1effb10cccf7358fd1b0a737e21db3d377064",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-002-validacao-estados-duplicidade.md",
+      "sha256": "2dd0ad3c945185d7acedce71b35a2a133771ae8034f4e899008c6915a906349b",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-003-eventos-baseline.md",
+      "sha256": "4fcb01a0548fad298e86aa16938849bae58814633d85b80cb32f6830b04423f7",
+      "classification": "spec-fase-atual"
+    }
+  ]
+}
